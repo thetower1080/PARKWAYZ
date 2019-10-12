@@ -21,6 +21,11 @@
         </activity>
     </application>
 
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyDtEaDnNEOZiRMv6Udx0Sp7I_ujV4ETiw8"/>
+
+
     <dist:module dist:instant="true" />
 
 </manifest>
