@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326990785305",
+    "firebase_url": "https://parkwayz-cf2e6.firebaseio.com",
+    "project_id": "parkwayz-cf2e6",
+    "storage_bucket": "parkwayz-cf2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326990785305:android:bc2cc110eea6b22210f388",
+        "android_client_info": {
+          "package_name": "com.example.parkwayz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326990785305-fktkcto2cojelqufhejrim7ljuaekhgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEaDnNEOZiRMv6Udx0Sp7I_ujV4ETiw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326990785305-fktkcto2cojelqufhejrim7ljuaekhgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
