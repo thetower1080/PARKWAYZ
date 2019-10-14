@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "326990785305-6u0jrvgdjv9nthdeodc3e6ah8svatif5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkwayz",
+            "certificate_hash": "1fc5b63d86fd0961a741c48b171eef0e6c71cbde"
+          }
+        },
+        {
           "client_id": "326990785305-fktkcto2cojelqufhejrim7ljuaekhgd.apps.googleusercontent.com",
           "client_type": 3
         }
