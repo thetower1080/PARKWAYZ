@@ -5,7 +5,7 @@
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-    //Adds the required permission request
+
     <uses-permission android:name="android.permission.INTERNET" />
 
 

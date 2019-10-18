@@ -9,38 +9,7 @@
     android:layout_weight="1">
 
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="0px"
-        android:orientation="horizontal"
-        android:layout_weight="1">
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="0px"
-            android:layout_height="fill_parent"
-            android:layout_weight="1"
-            android:paddingLeft="15sp"
-            android:paddingRight="10sp"
-            android:drawableRight="@android:drawable/ic_menu_close_clear_cancel"
-            android:background="@color/colorPrimary"/>
-
-        <TextView
-            android:id="@+id/Title"
-            android:layout_width="0px"
-            android:layout_height="fill_parent"
-            android:layout_weight="8"
-            android:background="@color/colorPrimary"
-            android:ems="10"
-            android:gravity="center_vertical"
-            android:paddingLeft="0sp"
-            android:paddingRight="10sp"
-            android:text="Nearby parking"
-            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-            android:textColor="#FFF"
-            android:textSize="30sp"
-            tools:text="Page Title" />
-    </LinearLayout>
 
     <fragment
         android:id="@+id/map"

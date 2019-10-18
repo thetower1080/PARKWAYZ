@@ -120,7 +120,7 @@ public class LoginActivity extends AppCompatActivity {
                         passwordEditText.getText().toString());
 
 
-                startActivity(new Intent(LoginActivity.this, HomeActivity.class));
+                startActivity(new Intent(LoginActivity.this, MapsActivity.class));
 
 
 
